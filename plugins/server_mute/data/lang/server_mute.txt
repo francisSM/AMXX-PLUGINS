@@ -1,0 +1,43 @@
+[en]
+MAINMENU_MUTE = Mute players
+ADMINMENU_GAG = Admin Gag / Mute (Global)
+ADMINMENU_NO_ACCESS = You do not have access to the Admin Gag menu.
+MUTE_ALL_MUTED = ^4[Mute] ^1You have ^3muted^1 all players.
+MUTE_ALL_OPTION = Mute all
+MUTE_ALL_UNMUTED = ^4[Mute] ^1You have ^3unmuted^1 all players.
+MUTE_NO_PLAYERS = ^4[Mute] ^1There are no players connected to mute.
+MUTE_STATUS_LISTENING = Listening
+MUTE_STATUS_MUTED = Muted
+GAG_BLOCKED_CHAT = ^4[Gag] ^1You are gagged by an Admin. Remaining: ^3%d min %02d sec^1.
+GAG_BLOCKED_VOICE = ^4[Gag] ^1You are voice-muted by an Admin. Remaining: ^3%d min %02d sec^1.
+GAG_EXPIRED = ^4[Gag] ^1Your gag has expired. You can now use chat and microphone.
+GAG_IMMUNITY = ^4[Gag] ^1You cannot gag this player (Immunity).
+GAG_CANNOT_SELF = ^4[Gag] ^1You cannot gag yourself.
+GAG_NOT_GAGGED = ^4[Gag] ^1The player does not have an active gag sanction.
+GAG_APPLIED = ^4[Gag] ^1Admin ^3%s ^1gagged ^3%s ^1for ^4%d minutes ^1(Type: ^4%s^1).
+GAG_REMOVED = ^4[Gag] ^1Admin ^3%s ^1ungagged ^3%s^1.
+GAG_TYPE_ALL = Chat + Voice
+GAG_TYPE_CHAT = Chat Only
+GAG_TYPE_VOICE = Voice Only
+
+[es]
+MAINMENU_MUTE = Silenciar jugadores
+ADMINMENU_GAG = Silenciar Jugador (Admin Gag)
+ADMINMENU_NO_ACCESS = No tienes acceso al menú de administración de gags.
+MUTE_ALL_MUTED = ^4[Mute] ^1Has ^3silenciado^1 a todos los jugadores.
+MUTE_ALL_OPTION = Silenciar a todos
+MUTE_ALL_UNMUTED = ^4[Mute] ^1Has ^3des-silenciado^1 a todos los jugadores.
+MUTE_NO_PLAYERS = ^4[Mute] ^1No hay jugadores conectados para silenciar.
+MUTE_STATUS_LISTENING = Escuchando
+MUTE_STATUS_MUTED = Silenciado
+GAG_BLOCKED_CHAT = ^4[Gag] ^1Estás silenciado por un Admin. Te quedan ^3%d min %02d seg^1 de sanción.
+GAG_BLOCKED_VOICE = ^4[Gag] ^1Estás silenciado de voz por un Admin. Te quedan ^3%d min %02d seg^1 de sanción.
+GAG_EXPIRED = ^4[Gag] ^1Tu sanción de silencio ha finalizado. Ya puedes usar el chat y micrófono.
+GAG_IMMUNITY = ^4[Gag] ^1No puedes silenciar a este jugador (Tiene inmunidad).
+GAG_CANNOT_SELF = ^4[Gag] ^1No puedes silenciarte a ti mismo.
+GAG_NOT_GAGGED = ^4[Gag] ^1El jugador no tiene ninguna sanción de silencio activa.
+GAG_APPLIED = ^4[Gag] ^1El Admin ^3%s ^1ha silenciado a ^3%s ^1por ^4%d minutos ^1(Tipo: ^4%s^1).
+GAG_REMOVED = ^4[Gag] ^1El Admin ^3%s ^1ha des-silenciado a ^3%s^1.
+GAG_TYPE_ALL = Chat + Voz
+GAG_TYPE_CHAT = Solo Chat
+GAG_TYPE_VOICE = Solo Voz

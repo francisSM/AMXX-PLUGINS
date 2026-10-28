@@ -1,0 +1,11 @@
+[en]
+ADVERT_WELCOME = Welcome to !t%servername%!n! Enjoy playing on !g%map%!n.
+ADVERT_RULES = Respect all players: No cheats, abusive language, or spam. Type !g/rules!n for more info.
+ADVERT_DISCORD = Join our official Discord community: !ghttps://discord.gg/yourserver!n
+ADVERT_HELP = Type !g/help!n or !g/menu!n to access server menus and player settings.
+
+[es]
+ADVERT_WELCOME = Bienvenidos a !t%servername%!n! Disfruta tu partida en !g%map%!n.
+ADVERT_RULES = Respeta a todos los jugadores: Prohibido cheats, insultos o spam. Escribe !g/reglas!n para mas informacion.
+ADVERT_DISCORD = Unete a nuestra comunidad oficial de Discord: !ghttps://discord.gg/tuserver!n
+ADVERT_HELP = Escribe !g/ayuda!n o !g/menu!n para acceder al menu principal y opciones de juego.
